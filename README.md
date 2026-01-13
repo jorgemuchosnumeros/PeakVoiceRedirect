@@ -32,6 +32,7 @@ Launch PEAK if you haven't and select it in the `Window` field
 ![step4.png](Images/step4.png)
 
 Check the Capture Audio option
+
 ![step5.png](Images/step5.png)
 
 You might want to test before recording/streaming to verify it is setup correctly
