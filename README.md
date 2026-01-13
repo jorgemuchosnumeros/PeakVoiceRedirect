@@ -35,6 +35,10 @@ Check the Capture Audio option
 
 ![step5.png](Images/step5.png)
 
+Mute the desktop audio to avoid streaming the other isolated players' voices 
+
+![step6.png](Images/step6.png)
+
 You might want to test before recording/streaming to verify it is setup correctly
 
 ## Building
